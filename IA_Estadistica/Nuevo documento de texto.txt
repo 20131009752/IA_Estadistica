@@ -1,0 +1,1 @@
+https://medium.com/datos-y-ciencia/n%C3%BAmeros-aleatorios-en-python-3-funciones-en-numpy-para-generarlos-298e1ff60062
